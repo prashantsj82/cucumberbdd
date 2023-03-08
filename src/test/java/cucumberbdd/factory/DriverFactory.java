@@ -20,5 +20,4 @@ public class DriverFactory {
         return driver;
     }
 
-   // driver.get("https://askomdch.com/store");
 }
